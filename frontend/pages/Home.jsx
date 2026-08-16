@@ -68,8 +68,8 @@ export default function Home() {
             <div className="preview-card">
               <div className="preview-card-top">
                 <div>
-                  <strong>Corner Lane Grocers</strong>
-                  <p className="muted">4th Block, Whitefield Main Road</p>
+                  <strong>Big Mart</strong>
+                  <p className="muted">FC Road, Pune, Maharashtra</p>
                 </div>
                 <span className="role-badge role-store_owner">4.6 ★</span>
               </div>
