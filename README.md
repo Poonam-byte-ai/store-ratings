@@ -20,9 +20,6 @@ A full-stack web application for managing and rating registered stores. Users ca
 - **Database:** MySQL
 - **Deployment:** Railway
 
-## Live Demo
-
-https://store-ratings.up.railway.app
 
 ## GitHub
 
